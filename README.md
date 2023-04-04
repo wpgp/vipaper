@@ -19,4 +19,4 @@ This R script contains the code used to calculate the vulnerability indices prop
 
 `indicators.R`
 
-This R script contains the code used to construct point-referenced spatial binomial models for the zero-dose indicators extracted from the Demographic Health Survey (DHS) datasets. The constructed models are then fitted in the Bayesian context with INLA. Finally, the model is used to produce high-resolution 1x1 km prediction and uncertainty surfaces.
+This R script contains the code used to construct point-referenced spatial binomial models for the zero-dose indicators and vaccination coverages extracted from the Demographic Health Survey (DHS) program datasets. The constructed models are then fitted in the Bayesian context with INLA. Finally, the model is used to produce high-resolution 1x1 km prediction and uncertainty surfaces.
