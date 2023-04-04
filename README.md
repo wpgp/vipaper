@@ -1,7 +1,7 @@
 # A composite zero-dose vulnerability index for equity assessment and spatial prioritization in low and middle-income countries
 <sub>Last edited: 04/04/2023</sub>
 
-A repository containing the R scripts used for the analyses in the reseach "A composite zero-dose vulnerability index for equity assessment and spatial prioritization in low and middle income countries". 
+A repository containing the R scripts used for the analyses in the research "A composite zero-dose vulnerability index for equity assessment and spatial prioritization in low and middle income countries". 
 
 ## Data availability
 
@@ -11,7 +11,7 @@ This repository does not include the data used to run these scripts due to sensi
 
 `covrank.R`
 
-This R script contains the code to the `covrank()` function. This function is necessary in order to run the code within the `index.R` script. The `covrank()` function ranks the risk factors using their predictive $R^2$ statistics by fitting simple binomial regression modelled to cluster level data using the coverage indicators.
+This R script contains the code to the `covrank()` function. This function is necessary in order to run the code within the `index.R` script. The `covrank()` function ranks the risk factors using their predictive $R^2$ statistics by fitting simple binomial regression modelled to cluster level data using the vaccination coverage indicators.
 
 `index.R`
 
@@ -19,4 +19,4 @@ This R script contains the code used to calculate the vulnerability indices prop
 
 `indicators.R`
 
-This R script contains the code used to construct point-referenced spatial binomial models for the zero-dose indicators and vaccination coverages extracted from the Demographic Health Survey (DHS) program datasets. The constructed models are then fitted in the Bayesian context with INLA. Finally, the model is used to produce high-resolution 1x1 km prediction and uncertainty surfaces.
+This R script contains the code used to construct point-referenced spatial binomial models for the zero-dose indicators and vaccination coverages indicators extracted from the Demographic Health Survey (DHS) program datasets. The constructed models are then fitted in the Bayesian context with INLA. Finally, the model is used to produce high-resolution 1x1 km prediction and uncertainty surfaces.
