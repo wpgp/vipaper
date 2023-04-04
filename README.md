@@ -7,11 +7,11 @@
 
 `covrank.R`
 
-This R script contains the code to the `covrank()` function. This function is necessary in order to run the code within the `index.R` script. The `covrank()` function ranks the risk factors using their predictive $R^2$ statistics by fitting simple binomial regression modelsd to cluster level data using the coverage indicators.
+This R script contains the code to the `covrank()` function. This function is necessary in order to run the code within the `index.R` script. The `covrank()` function ranks the risk factors using their predictive $R^2$ statistics by fitting simple binomial regression modelled to cluster level data using the coverage indicators.
 
 `index.R`
 
-This R script contains the code used to calculate the vulnerability indices proposed in this research. The code in this R script is dependent on the high-resolution outputs produced from the `indicators.R` script. The code in this R script is also dependent on the function within the `covrank.R` script.
+This R script contains the code used to calculate the vulnerability indices proposed in this research. The code in this R script is dependent on the high-resolution outputs produced from the `indicators.R` script. The code in this R script is also dependent on the `covrank()` function within the `covrank.R` script.
 
 `indicators.R`
 
