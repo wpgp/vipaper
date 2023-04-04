@@ -5,7 +5,7 @@ A repository containing the R scripts used for the analyses in the reseach "A co
 
 ## Data availability
 
-This repository does not include the data used to run these scripts due to sensitiy reasons. However, the data can be accessed upon request and registration from the Demographic Health Survey (DHS) program [website](https://dhsprogram.com/). 
+This repository does not include the data used to run these scripts due to sensitivity reasons. However, the data can be accessed upon request and registration from the Demographic Health Survey (DHS) program [website](https://dhsprogram.com/). 
 
 ## R Scripts
 
