@@ -1,4 +1,5 @@
-# TITLE OF THE PAPER GOES HERE
+# A composite zero-dose vulnerability index for equity assessment
+# and spatial prioritization in low and middle-income countries
 
 
 # Description:
