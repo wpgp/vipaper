@@ -1,5 +1,5 @@
-# A composite zero-dose vulnerability index for equity assessment
-# and spatial prioritization in low and middle-income countries
+# A zero-dose vulnerability index for equity assessment and 
+# spatial prioritization in low anad middle-income countries
 
 
 # Description:
