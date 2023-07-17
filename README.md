@@ -10,7 +10,7 @@ This repository does not include the data used to run these scripts due to sensi
 
 `covrank.R`
 
-This R script contains the code to the `covrank()` function. This function is necessary in order to run the code within the `index.R` script. The `covrank()` function ranks the risk factors using their predictive $R^2$ statistics by fitting simple binomial regression modelled to cluster level data using the vaccination coverage indicators.
+This R script contains the code to the `covrank()` function. This function is necessary in order to run the code within the `index.R` script. The `covrank()` function ranks the predictive $R^2$ of the risk factors.
 
 `index.R`
 
